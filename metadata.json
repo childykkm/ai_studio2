@@ -1,0 +1,5 @@
+{
+  "name": "AI 패션 모델 생성기-",
+  "description": "기본 이미지를 업로드하여 배경, 모델컷, 바닥컷 등 다양한 산출물을 생성함",
+  "requestFramePermissions": []
+}
